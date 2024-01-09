@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ast-admindashboard/static/css/main.edea295e.css",
-    "main.js": "/ast-admindashboard/static/js/main.893c7868.js",
+    "main.js": "/ast-admindashboard/static/js/main.ad0b2ee4.js",
     "static/media/sampleuser.png": "/ast-admindashboard/static/media/sampleuser.1d6a4084798835cddef9.png",
     "index.html": "/ast-admindashboard/index.html",
     "main.edea295e.css.map": "/ast-admindashboard/static/css/main.edea295e.css.map",
-    "main.893c7868.js.map": "/ast-admindashboard/static/js/main.893c7868.js.map"
+    "main.ad0b2ee4.js.map": "/ast-admindashboard/static/js/main.ad0b2ee4.js.map"
   },
   "entrypoints": [
     "static/css/main.edea295e.css",
-    "static/js/main.893c7868.js"
+    "static/js/main.ad0b2ee4.js"
   ]
 }
